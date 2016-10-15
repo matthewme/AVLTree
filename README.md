@@ -1,3 +1,1 @@
-# AVLTree
-
-An AVL balanced tree
+An AVL balanced tree. The tree is used as a sorting algorithm.
